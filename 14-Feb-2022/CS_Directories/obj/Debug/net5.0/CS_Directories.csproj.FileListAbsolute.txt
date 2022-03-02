@@ -1,0 +1,16 @@
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\bin\Debug\net5.0\CS_Directories.exe
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\bin\Debug\net5.0\CS_Directories.deps.json
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\bin\Debug\net5.0\CS_Directories.runtimeconfig.json
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\bin\Debug\net5.0\CS_Directories.runtimeconfig.dev.json
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\bin\Debug\net5.0\CS_Directories.dll
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\bin\Debug\net5.0\ref\CS_Directories.dll
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\bin\Debug\net5.0\CS_Directories.pdb
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\CS_Directories.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\CS_Directories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\CS_Directories.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\CS_Directories.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\CS_Directories.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\CS_Directories.dll
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\ref\CS_Directories.dll
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\CS_Directories.pdb
+C:\Users\Coditas\source\repos\CS_Directories\CS_Directories\obj\Debug\net5.0\CS_Directories.genruntimeconfig.cache

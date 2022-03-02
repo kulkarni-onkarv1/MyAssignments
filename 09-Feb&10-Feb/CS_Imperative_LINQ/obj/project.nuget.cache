@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iU0aOy8G7hJkzr/PQR/31CgDsLzBf74qCDobKouC4rWD0L4NvxrHSAbPOm2rH7WPPkjUceuHTTPfFEV5cieBrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coditas\\Pictures\\MiniProj\\AssignmentsFrom\\09-Feb&10-Feb\\CS_Imperative_LINQ\\CS_Imperative_LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coditas\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}

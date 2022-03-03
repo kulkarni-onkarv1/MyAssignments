@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Coditas\\source\\repos\\CS_DatabaseConnectivityDisconnectedArchitecture\\CS_DatabaseConnectivityQuestionary\\CS_DatabaseConnectivityDisconnectedArchitecture.csproj": {}
+    "C:\\Users\\Coditas\\Pictures\\MiniProj\\AssignmentsFrom\\22-Feb-2022\\CS_DatabaseConnectivityQuestionary\\CS_DatabaseConnectivityDisconnectedArchitecture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Coditas\\source\\repos\\CS_DatabaseConnectivityDisconnectedArchitecture\\CS_DatabaseConnectivityQuestionary\\CS_DatabaseConnectivityDisconnectedArchitecture.csproj": {
+    "C:\\Users\\Coditas\\Pictures\\MiniProj\\AssignmentsFrom\\22-Feb-2022\\CS_DatabaseConnectivityQuestionary\\CS_DatabaseConnectivityDisconnectedArchitecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Coditas\\source\\repos\\CS_DatabaseConnectivityDisconnectedArchitecture\\CS_DatabaseConnectivityQuestionary\\CS_DatabaseConnectivityDisconnectedArchitecture.csproj",
+        "projectUniqueName": "C:\\Users\\Coditas\\Pictures\\MiniProj\\AssignmentsFrom\\22-Feb-2022\\CS_DatabaseConnectivityQuestionary\\CS_DatabaseConnectivityDisconnectedArchitecture.csproj",
         "projectName": "CS_DatabaseConnectivityDisconnectedArchitecture",
-        "projectPath": "C:\\Users\\Coditas\\source\\repos\\CS_DatabaseConnectivityDisconnectedArchitecture\\CS_DatabaseConnectivityQuestionary\\CS_DatabaseConnectivityDisconnectedArchitecture.csproj",
+        "projectPath": "C:\\Users\\Coditas\\Pictures\\MiniProj\\AssignmentsFrom\\22-Feb-2022\\CS_DatabaseConnectivityQuestionary\\CS_DatabaseConnectivityDisconnectedArchitecture.csproj",
         "packagesPath": "C:\\Users\\Coditas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Coditas\\source\\repos\\CS_DatabaseConnectivityDisconnectedArchitecture\\CS_DatabaseConnectivityQuestionary\\obj\\",
+        "outputPath": "C:\\Users\\Coditas\\Pictures\\MiniProj\\AssignmentsFrom\\22-Feb-2022\\CS_DatabaseConnectivityQuestionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Coditas\\AppData\\Roaming\\NuGet\\NuGet.Config",

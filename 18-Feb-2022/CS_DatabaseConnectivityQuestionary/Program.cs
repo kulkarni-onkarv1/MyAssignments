@@ -95,7 +95,7 @@ namespace CS_DatabaseConnectivityConnectedArchitecture
 
                         if (result == null)
                         {
-                            Console.WriteLine("Upate Faild");
+                            Console.WriteLine("Upate Failed!Either Employee Doesn't Exist Or UnConsious Error Occured!");
                         }
                         else
                         {
@@ -105,7 +105,14 @@ namespace CS_DatabaseConnectivityConnectedArchitecture
                     else if (choice == 5)
                     {
                         Console.WriteLine("Enter Employee Number");
-                        EmployeeID = int.Parse(Console.ReadLine());
+                        do
+                        {
+                            EmployeeID = int.Parse(Console.ReadLine());
+                            if (EmployeeID <= 0)
+                            {
+                                Console.WriteLine("ID Can't be Zero or Negative!Please Enter Positive Integer");
+                            }
+                        } while (EmployeeID <= 0);
                         Console.WriteLine("Enter Employee Name");
                         Name = Console.ReadLine();
                         Console.WriteLine("Enter Employee Salary");

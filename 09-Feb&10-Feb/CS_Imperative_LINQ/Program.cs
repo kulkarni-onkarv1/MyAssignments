@@ -53,7 +53,7 @@ namespace CS_Imperative_LINQ
 
             //QueriesForAssignment.secondMaxSalaryGroupByDept(ref employees); //Question 11
 
-            //QueriesForAssignment.DepartmentWiseEmployeeTax(ref employees); //Question 12
+            QueriesForAssignment.DepartmentWiseEmployeeTax(ref employees); //Question 12
 
 
             /* #Create a Department Collection with 10 Records as
@@ -68,7 +68,7 @@ namespace CS_Imperative_LINQ
 
             /*Assignment 10-Feb-2022*/
 
-            EmployeeSalaryComputation.SalarySlipGeneration(ref employees);
+            //EmployeeSalaryComputation.SalarySlipGeneration(ref employees);
 
 
 

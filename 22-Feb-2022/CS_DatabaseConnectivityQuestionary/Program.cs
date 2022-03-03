@@ -100,7 +100,7 @@ namespace CS_DatabaseConnectivityDisconnectedArchitecture
                         var result = employeeData.Update(IdChoice, employeeNew);                      
                         if (result == null)
                         {
-                            Console.WriteLine("Upate Failed");
+                            Console.WriteLine("Update Failed!Either Employee Doesn't Exist Or UnConsious Error Occured!");
                         }
                         else
                         {
@@ -110,7 +110,14 @@ namespace CS_DatabaseConnectivityDisconnectedArchitecture
                     else if (choice == 5)
                     {
                         Console.WriteLine("Enter Employee Number");
-                        EmployeeID = int.Parse(Console.ReadLine());
+                        do
+                        {
+                            EmployeeID = int.Parse(Console.ReadLine());
+                            if (EmployeeID <= 0)
+                            {
+                                Console.WriteLine("ID Can't be Zero or Negative!Please Enter Positive Integer");
+                            }
+                        } while (EmployeeID <= 0);
                         Console.WriteLine("Enter Employee Name");
                         Name = Console.ReadLine();
                         Console.WriteLine("Enter Employee Salary");
